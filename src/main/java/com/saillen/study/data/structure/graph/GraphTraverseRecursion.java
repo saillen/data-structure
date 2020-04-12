@@ -40,7 +40,6 @@ public class GraphTraverseRecursion {
         vis[verIdx] = true;
         // 访问这个数组中 > 0 的就是 verIdx 能到达的点
         int[] vertexRelation = edgeMatrix[verIdx];
-        for()
     }
 
     private void dfs1(int verIdx, int[] vertex) {
