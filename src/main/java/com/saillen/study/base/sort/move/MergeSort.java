@@ -1,6 +1,6 @@
 package com.saillen.study.base.sort.move;
 
-import com.saillen.algorithms.base.sort.ISortAbility;
+import com.saillen.study.base.sort.ISortAbility;
 
 /**
  * 归并排序,最典型的分治思想的排序算法,快排也算是分治,但是归并的分治更彻底<br>

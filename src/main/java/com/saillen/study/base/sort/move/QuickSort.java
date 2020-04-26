@@ -1,6 +1,6 @@
 package com.saillen.study.base.sort.move;
 
-import com.saillen.algorithms.base.sort.ISortAbility;
+import com.saillen.study.base.sort.ISortAbility;
 
 /**
  * 快速排序:基于分治思想的排序算法,与贪心算法不同,快速排序能获得较好的性能<br>
