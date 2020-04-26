@@ -9,7 +9,8 @@ public class InitDemo {
     static class T {
 
         static T t = new T();
-        static int count = 2;
+        static int count = 2 ;
+
 
         private int m = 8;
 
