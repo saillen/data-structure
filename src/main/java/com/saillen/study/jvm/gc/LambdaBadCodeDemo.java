@@ -6,21 +6,21 @@ package com.saillen.study.jvm.gc;
  **/
 public class LambdaBadCodeDemo {
 
-    //@FunctionalInterface
-    interface I {
-        void m();
-    }
-
-    static class C {
-        static void n() {
-            System.out.print("n");
-        }
-    }
-
-    public static void main(String[] args) {
-        for (; ; ) {
-            I j = C::n;
-        }
-    }
+//    //@FunctionalInterface
+//    interface I {
+//        void m();
+//    }
+//
+//    static class C {
+//        static void n() {
+//            System.out.print("n");
+//        }
+//    }
+//
+//    public static void main(String[] args) {
+//        for (; ; ) {
+//            I j = C::n;
+//        }
+//    }
 
 }
