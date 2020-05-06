@@ -1,6 +1,7 @@
 package com.saillen.study.algorithm.leetcode;
 
 /**
+ *
  * @author : saillen
  * @date: 2020/5/1
  **/
@@ -11,15 +12,12 @@ public class LongestCommonPrefix2 {
         int left = 0;
         int curPos = 0;
         for (int rowIdx = 0; rowIdx < strs.length; rowIdx++) {
-
             // rowIdx 的 string
             while (strs[rowIdx].indexOf(curPos) != 0) {
 
             }
-
-
         }
-
+        return strs[0].substring(left, curPos);
     }
 
 }
