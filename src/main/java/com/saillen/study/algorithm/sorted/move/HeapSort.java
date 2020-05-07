@@ -1,6 +1,6 @@
-package com.saillen.study.base.sort.move;
+package com.saillen.study.algorithm.sorted.move;
 
-import com.saillen.study.base.sort.ISortAbility;
+import com.saillen.study.algorithm.sorted.ISortAbility;
 
 /**
  * 堆排序,属于移位排序的一种<br>

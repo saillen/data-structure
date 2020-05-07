@@ -1,4 +1,4 @@
-package com.saillen.study.base.search;
+package com.saillen.study.algorithm.search;
 
 /**
  * 顺序搜索,采用暴力思想,遍历数组<br>

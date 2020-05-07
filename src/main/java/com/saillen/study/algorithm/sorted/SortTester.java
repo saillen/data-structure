@@ -1,9 +1,9 @@
-package com.saillen.study.base.sort;
+package com.saillen.study.algorithm.sorted;
 
-import com.saillen.study.base.sort.move.BucketSort;
-import com.saillen.study.base.sort.move.HeapSort;
-import com.saillen.study.base.sort.move.InsertSort;
-import com.saillen.study.base.sort.move.QuickSort;
+import com.saillen.study.algorithm.sorted.move.BucketSort;
+import com.saillen.study.algorithm.sorted.move.HeapSort;
+import com.saillen.study.algorithm.sorted.move.InsertSort;
+import com.saillen.study.algorithm.sorted.move.QuickSort;
 
 import java.util.Arrays;
 import java.util.Random;
