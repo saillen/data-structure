@@ -7,10 +7,8 @@ package com.saillen.study.algorithm.leetcode;
 public class LongestCommonPrefix {
 
     public static void main(String[] args) {
-
-//        String[] strs = {"flower", "flow", "flight"};
-        String[] strs = {"dog", "racecar", "car"};
-
+        String[] strs = {"flower", "flow", "flight"};
+        // String[] strs = {"dog", "racecar", "car"};
         System.out.println(longestCommonPrefix(strs));
     }
 
@@ -29,11 +27,9 @@ public class LongestCommonPrefix {
                 right = i;
             }
         }
-
         if (left < 0) {
             return ".";
         }
-
         return strs[0].substring(left, right + 1);
     }
 
