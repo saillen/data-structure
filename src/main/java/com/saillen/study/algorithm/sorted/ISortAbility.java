@@ -1,4 +1,4 @@
-package com.saillen.study.base.sort;
+package com.saillen.study.algorithm.sorted;
 
 /**
  * @author : qiesai

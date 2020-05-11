@@ -1,6 +1,6 @@
-package com.saillen.study.base.sort.move;
+package com.saillen.study.algorithm.sorted.move;
 
-import com.saillen.study.base.sort.ISortAbility;
+import com.saillen.study.algorithm.sorted.ISortAbility;
 
 /**
  * 桶排序(hash排序),是一种不基于比较的排序算法<br>

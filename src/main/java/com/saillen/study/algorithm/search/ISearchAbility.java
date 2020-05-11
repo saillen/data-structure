@@ -1,4 +1,4 @@
-package com.saillen.study.base.search;
+package com.saillen.study.algorithm.search;
 
 /**
  * @author : qiesai

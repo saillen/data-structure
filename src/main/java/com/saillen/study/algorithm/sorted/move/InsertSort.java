@@ -1,6 +1,6 @@
-package com.saillen.study.base.sort.move;
+package com.saillen.study.algorithm.sorted.move;
 
-import com.saillen.study.base.sort.ISortAbility;
+import com.saillen.study.algorithm.sorted.ISortAbility;
 
 /**
  * 插入排序,移位排序里面性能相对来说最好的一种排序<br>
